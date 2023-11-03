@@ -7,10 +7,10 @@ Full-Stack Django Rest
 
 <br >
 
-## ✨ `React` Berry Dashboard
+## ✨ `React` Dashboard
 
 - `M-UI` based design
-- Modern aesthetics UI design - Designed by *[CodedThemes](https://bit.ly/37fF9RT)*
+- Modern aesthetics UI design - Designed by *[CodedThemes]()*
 - React, Redux, Redux-persist
 
 <br />
@@ -32,7 +32,7 @@ Full-Stack Django Rest
 - `Up-to-date dependencies`
 - **DB Layer**: Django Native `ORM`, `SQLite` persistence
 - **Auth**: JWT tokens managed via `PyJWT`
-- [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
+- [API Definition]() - the unified API structure implemented by this server
 
 
 <br /> 
