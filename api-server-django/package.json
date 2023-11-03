@@ -5,13 +5,13 @@
     "scripts": {},
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/api-server-django"
+        "url": "https://google.cl"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/api-server-django/issues",
+        "url": "https://google.cl",
         "email": "support@appseed.us"
     },
-    "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
+    "author": "Django REst",
     "engines": {
         "node": ">=10.0.0"
     },
