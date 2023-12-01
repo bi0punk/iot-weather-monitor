@@ -15,17 +15,6 @@ Full-Stack Django Rest
 
 <br />
 
-> `Tests` (compatibility matrix)
-
-| NodeJS | NPM | YARN | 
-| --- | --- | --- |  
-| `v14.0.0` | ✅ | ✅ |
-| `v16.0.0` | ✅ | ✅ | 
-| `v18.0.0` | ❌ | ❌ | 
-
-
-<br />
-
 ## ✨ `Django API` Features
 
 - Stack: : `Django` / `DRF` / **SQLite** 
