@@ -1,1 +1,2 @@
 
+Monitor de clima simple
